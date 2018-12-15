@@ -1,0 +1,2 @@
+# ChromePasswordViewer
+パスワードを忘れたときのために（？）
